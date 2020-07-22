@@ -4,6 +4,7 @@ import extendPage from './complex/extend-page.js'
 import extendGlobalData from './complex/extend-globalData.js'
 import extendMitt from './complex/extend-mitt.js'
 import extendPreload from './complex/extend-preload.js'
+import extendOData from './complex/extend-oData.js'
 
 import simplePv from './simple/extend_pv.js'
 
