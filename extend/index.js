@@ -3,6 +3,7 @@ import mpExtend from './mp-extend.js'
 import extendPage from './complex/extend-page.js'
 import extendGlobalData from './complex/extend-globalData.js'
 import extendMitt from './complex/extend-mitt.js'
+import extendPreload from './complex/extend-preload.js'
 
 import simplePv from './simple/extend_pv.js'
 
@@ -11,6 +12,7 @@ import simplePv from './simple/extend_pv.js'
 mpExtend(extendPage)
 mpExtend(extendGlobalData)
 mpExtend(extendMitt)
+mpExtend(extendPreload)
 
 mpExtend(simplePv)
 
