@@ -2,6 +2,7 @@ import mpExtend from './mp-extend.js'
 
 import extendPage from './complex/extend-page.js'
 import extendGlobalData from './complex/extend-globalData.js'
+import extendMitt from './complex/extend-mitt.js'
 
 import simplePv from './simple/extend_pv.js'
 
@@ -9,6 +10,7 @@ import simplePv from './simple/extend_pv.js'
 // 如果不需要某一个混入项的功能，直接注释掉即可
 mpExtend(extendPage)
 mpExtend(extendGlobalData)
+mpExtend(extendMitt)
 
 mpExtend(simplePv)
 
