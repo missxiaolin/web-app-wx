@@ -1,6 +1,6 @@
 import extend from './extend/index.js'
 App = extend.App
-// Page = extend.Page
+Page = extend.Page
 // Component = extend.Component
 
 App({
