@@ -1,3 +1,5 @@
+let urlConfig = {}
+
 class Request {
     constructor(option) {
         let baseConfig = {
