@@ -14,6 +14,7 @@ mpExtend(extendPage)
 mpExtend(extendGlobalData)
 mpExtend(extendMitt)
 mpExtend(extendPreload)
+mpExtend(extendOData)
 
 mpExtend(simplePv)
 
