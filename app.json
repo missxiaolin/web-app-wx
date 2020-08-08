@@ -1,6 +1,7 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/complex/omix/oData",
     "pages/complex/mitt/mitt",
     "pages/complex/mitt/mitt2",
     "pages/complex/globalData/globalData1",
