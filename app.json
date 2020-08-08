@@ -1,6 +1,8 @@
 {
   "pages":[
-    "pages/index/index"
+    "pages/index/index",
+    "pages/complex/globalData/globalData1",
+    "pages/complex/globalData/globalData2"
   ],
   "window":{
     "backgroundTextStyle":"light",
