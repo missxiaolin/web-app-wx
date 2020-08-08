@@ -1,6 +1,10 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/complex/preload/preload",
+    "pages/complex/preload/preload1",
+    "pages/complex/preload/preload2",
+    "pages/complex/preload/preload3",
     "pages/complex/page/page",
     "pages/complex/omix/oData",
     "pages/complex/mitt/mitt",
