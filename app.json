@@ -1,7 +1,8 @@
 {
   "pages":[
-    "pages/index/index",
     "pages/complex/preload/preload",
+    "pages/index/index",
+    
     "pages/complex/preload/preload1",
     "pages/complex/preload/preload2",
     "pages/complex/preload/preload3",
