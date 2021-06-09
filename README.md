@@ -202,9 +202,3 @@ PS：如果对[源码](https://github.com/WozHuang/mp-extend/blob/master/demo/mp
 
 如果觉得有用可以给我一个小星星（满脸期待.jpg），有新的扩展或想法也欢迎issue和PR。
 
-## 参考
-
-> [wxpage](https://github.com/tvfe/wxpage)
-> [omi](https://github.com/Tencent/omi)
-> [Vue mixins](https://cn.vuejs.org/v2/guide/mixins.html#%E9%80%89%E9%A1%B9%E5%90%88%E5%B9%B6)
-> [微信小程序之提高应用速度小技巧](https://wetest.qq.com/lab/view/294.html)
